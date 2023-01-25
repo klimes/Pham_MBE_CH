@@ -6,4 +6,4 @@ Contents:
 * Structures of dimers, trimers, and tetramers (.zip)
 * Interaction and non-additive energies for the clusters (4body TODO)
 
-The output files were generated with mbelib.py
+The output files were generated with mbe.py library
